@@ -1,0 +1,144 @@
+{
+    "name": "Deep Waters",
+    "description": "Experience blues & bubbles, inspired by the Wii Homebrew Channel, for a calming chat vibe.",
+    "version": "2.4.0",
+    "authors": [
+        {
+            "name": "Cyclone",
+            "id": "605791172530536449"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#DCE0E6"],
+        "HEADER_SECONDARY": ["#B2BBC8"],
+        "TEXT_NORMAL": ["#E6F1FF"],
+        "TEXT_MUTED": ["#A1B1C9"],
+        "INTERACTIVE_NORMAL": ["#7CA0CC"],
+        "INTERACTIVE_HOVER": ["#5D8DBC"],
+        "INTERACTIVE_ACTIVE": ["#426FA3"],
+        "INTERACTIVE_MUTED": ["#536E87"],
+        "BACKGROUND_PRIMARY": ["#232A34"],
+        "CARD_PRIMARY_BG": ["#232A34"],
+        "BG_BASE_PRIMARY": ["#232A34"],
+        "BACKGROUND_SECONDARY": ["#2B3541"],
+        "CARD_SECONDARY_BG": ["#2E3A48"],
+        "BG_BASE_SECONDARY": ["#2B3541"],
+        "BACKGROUND_SECONDARY_ALT": ["#344553"],
+        "BACKGROUND_TERTIARY": ["#364C5D"],
+        "BG_BASE_TERTIARY": ["#334752"],
+        "BACKGROUND_ACCENT": ["#6C8794"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#232A34"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#334752"],
+        "BACKGROUND_MESSAGE_HOVER": ["#3B5672"],
+        "BACKGROUND_MODIFIER_HOVER": ["#293340"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#28323D"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#364D65"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#3B5672"],
+        "BACKGROUND_MENTIONED": ["#6C879444"],
+        "BACKGROUND_MENTIONED_HOVER": ["#3B5672"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#1C2531"],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#2E3A48"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#3B5672"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#344553"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#364C5D"],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#536E87"],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#DCE0E6"],
+        "REDESIGN_CHANNEL_NAME_TEXT": ["#E6F1FF"],
+        "CHANNELS_DEFAULT": ["#DCE0E6"],
+        "CHANNEL_ICON": ["#7CA0CC"],
+        "TEXT_PRIMARY": ["#E6F1FF"],
+        "TEXT_LINK": ["#7CA0CC"],
+        "THREAD_CHANNEL_SPINE": ["#5D8DBC"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#F0F7FF",
+        "PRIMARY_200": "#E6F1FF",
+        "PRIMARY_330": "#B2BBC8",
+        "PRIMARY_360": "#5D8DBC",
+        "PRIMARY_400": "#426FA3",
+        "PRIMARY_460": "#232A34",
+        "PRIMARY_500": "#6C8794",
+        "PRIMARY_530": "#7CA0CC",
+        "PRIMARY_600": "#2B3541",
+        "PRIMARY_630": "#2E3A48",
+        "PRIMARY_645": "#293340",
+        "PRIMARY_660": "#334752",
+        "PRIMARY_700": "#536E87",
+        "PRIMARY_800": "#334752",
+        "PLUM_10": "#7CA0CC",
+        "PLUM_24": "#5D8DBC",
+        "PLUM_11": "#344553",
+        "PLUM_15": "#3B5672",
+        "PLUM_16": "#5D8DBC",
+        "PLUM_17": "#344553",
+        "PLUM_20": "#2B3541",
+        "PLUM_3": "#E6F1FF",
+        "PLUM_4": "#DCE0E6",
+        "PLUM_6": "#A1B1C9",
+        "BRAND_230": "#6C8794",
+        "BRAND_260": "#6C8794",
+        "BRAND_360": "#E6F1FF",
+        "BRAND_500": "#6C8794",
+        "BRAND_560": "#DCE0E6",
+        "RED_260": "#6C8794",
+        "ROLE_DEFAULT": "#99aab5",
+        "YELLOW_260": "#99b8cf",
+        "GREEN_260": "#8da4ba",
+        "GUILD_BOOSTING_PINK": "#7CA0CC",
+        "GUILD_BOOSTING_PURPLE": "#6C8794",
+        "BLUE_345": "#7CA0CC",
+        "BLUE_330": "#7CA0CC",
+        "WHITE_500": "#DCE0E6",
+        "WHITE_630": "#536E87"
+    },
+    "plus": {
+        "version": "1",
+        "customOverlays": true,
+        "icons": {
+            "ic_radio_circle_checked": "#6C8794",
+            "ic_radio_circle_checked__overlay": "#FFFFFF",
+            "ic_radio_square_24px": "#6C8794",
+            "ic_radio_square_checked_24px": "#6C8794",
+            "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+            "ic_selection_checked_24px": "#6C8794",
+            "ic_selection_checked_24px__overlay": "#FFFFFF",
+            "StatusMobileOnline": "#7CA0CC",
+            "StatusIdle": "#A1B1C9",
+            "StatusDND": "#5D8DBC",
+            "StatusOffline": "#344553",
+            "StatusOnline": "#7CA0CC",
+            "StatusStreaming": "#6C8794"
+        },
+        "highlight": {
+            "effect": "bubble",
+            "color": "#5D8DBC"
+        }
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/new.png",
+        "alpha": 0.4
+    },
+    "animations": {
+        "hover": {
+            "card": "float",
+            "button": "pulse"
+        },
+        "click": {
+            "button": "ripple"
+        }
+    },
+    "typography": {
+        "fontPrimary": "'Lato', sans-serif",
+        "fontSecondary": "'Roboto', sans-serif",
+        "sizeNormal": "14px",
+        "sizeLarge": "16px",
+        "sizeSmall": "12px",
+        "textShadow": "0px 1px 3px rgba(0, 0, 0, 0.5)"
+    },
+    "shadows": {
+        "card": "0px 4px 6px rgba(0, 0, 0, 0.2)",
+        "button": "0px 2px 4px rgba(0, 0, 0, 0.3)"
+    },
+    "spec": 2
+}
