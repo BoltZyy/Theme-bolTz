@@ -1,7 +1,7 @@
 {
     "name": "Deep Waters Miyabi",
     "description": "Experience blues & bubbles, inspired by the Wii Homebrew Channel, for a calming chat vibe.",
-    "version": "2.4.0",
+    "version": "1.0",
     "authors": [
         {
             "name": "BoltZyy",
@@ -116,7 +116,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/new.png",
+        "url": "https://raw.githubusercontent.com/BoltZyy/Theme-bolTz/refs/heads/main/ClearVision/Vendetta/20260117_153717.jpg",
         "alpha": 0.4
     },
     "animations": {
