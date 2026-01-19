@@ -51,8 +51,8 @@
         "THREAD_CHANNEL_SPINE": ["#5D8DBC"]
     },
     "rawColors": {
-        "PRIMARY_100": "#F0F7FF",
-        "PRIMARY_200": "#E6F1FF",
+        "PRIMARY_100": "#3789E6",
+        "PRIMARY_200": "#7eb3f0",
         "PRIMARY_330": "#B2BBC8",
         "PRIMARY_360": "#5D8DBC",
         "PRIMARY_400": "#426FA3",
