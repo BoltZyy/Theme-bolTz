@@ -51,8 +51,10 @@
         "THREAD_CHANNEL_SPINE": ["#5D8DBC"]
     },
     "rawColors": {
-        "PRIMARY_100": "#F0F7FF",
+        "PRIMARY_100": "#7B1FA2",
+        "PRIMARY_230": "#7B1FA2",
         "PRIMARY_200": "#E6F1FF",
+        "PRIMARY_300": "#9C27B0",
         "PRIMARY_330": "#B2BBC8",
         "PRIMARY_360": "#5D8DBC",
         "PRIMARY_400": "#426FA3",
@@ -63,7 +65,7 @@
         "PRIMARY_630": "#2E3A48",
         "PRIMARY_645": "#293340",
         "PRIMARY_660": "#334752",
-        "PRIMARY_700": "#536E87",
+        "PRIMARY_700": "#9C27B0",
         "PRIMARY_800": "#334752",
         "PLUM_10": "#7CA0CC",
         "PLUM_24": "#5D8DBC",
