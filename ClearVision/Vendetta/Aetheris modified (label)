@@ -181,7 +181,7 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-      "blur": 0.4,
+      "blur": 0.6,
       "url": "https://raw.githubusercontent.com/BoltZyy/Theme-bolTz/refs/heads/main/ClearVision/Vendetta/Images%20or%20backgrounds/20260308_145633.jpg",
       "alpha": 1
     },
